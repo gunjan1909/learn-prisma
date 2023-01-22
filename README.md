@@ -26,3 +26,4 @@ Repository contains my learning on using Prisma with very basic postgresql datab
 [WebDevSimplified Tutorial Followed](https://youtu.be/RebA5J-rlwg)
 <br>
 [Prisma Docs](https://www.prisma.io/docs/getting-started/quickstart)
+[Prisma Docs](https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases/querying-the-database-typescript-postgres)
